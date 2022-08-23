@@ -1,5 +1,6 @@
 
-# Exercício: Faça um programa onde o usuário possa entrar com uma lista de modelos e suas respectivas alturas. O programa deve imprimir as primeiras 2 modelos de maior altura.
+# Exercício: Faça um programa onde o usuário possa entrar com uma 
+# lista de modelos e suas respectivas alturas. O programa deve imprimir as primeiras 2 modelos de maior altura.
 
 n = int(input("entre com a quantidade de modelos: "))
 
